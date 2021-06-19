@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+out/
+
+# JavaScript
+node_modules/
+
+# Electron
+pack/
